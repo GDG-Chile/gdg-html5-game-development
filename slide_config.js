@@ -1,8 +1,8 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'Title Goes Here<br>Up To Two Lines',
-    subtitle: 'Subtitle Goes Here',
+    title: 'Técnicas de desarrollo de<br>Videojuegos HTML5',
+    subtitle: 'Cómo crear tu propio Game Egine',
     //eventTitle: 'Google I/O 2013',
     useBuilds: true, // Default: true. False will turn off slide animation builds.
     usePrettify: true, // Default: true
@@ -19,12 +19,12 @@ var SLIDE_CONFIG = {
 
   // Author information
   presenters: [{
-    name: 'Firstname Lastname',
-    company: 'Job Title, Google',
-    gplus: 'http://plus.google.com/1234567890',
-    twitter: '@yourhandle',
-    www: 'http://www.you.com',
-    github: 'http://github.com/you'
+    name: 'Rodrigo González',
+    company: 'Sapienlab',
+    gplus: 'https://plus.google.com/101590876491229633060/posts',
+    twitter: '@rodrigo_gonzlez',
+    www: 'http://www.sapienlab.com',
+    github: 'http://github.com/roro89'
   }/*, {
     name: 'Second Name',
     company: 'Job Title, Google',
